@@ -1,0 +1,2 @@
+RDBMS Used: PostgreSQL (e.g., PostgreSQL 16)
+UI/Client Software Used: IntelliJ IDEA
